@@ -1,5 +1,3 @@
-# Python BattleShip game
-
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
@@ -11,7 +9,8 @@ this is a simple one player battleship game using python.
   
 ### usage
 
-just run it!
+just run it! 
+!!ATTENTION!! in line  231 with change print mode ( s/t ) you can use cheats
 
 simple out put in (s) mode ( cheats off - standard)
 
